@@ -1,0 +1,14 @@
+homepage_data:
+  - case_name: "获取2025年首页数据"
+    api: "/api/homePage/data"
+    params:
+      year: 2025
+    expected:
+      status_code: 200
+      code: 1
+      msg: "success"
+      data:
+        firstTierForecast: 11853797
+        yearForecast: 33208557
+        supplementForecast: 25639797
+        brandCore: 0.9503700964616009

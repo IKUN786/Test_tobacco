@@ -1,0 +1,28 @@
+2026-04-12 15:39:57,828 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-12 15:39:57,828 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-12 15:44:18,735 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-12 15:44:18,735 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-12 15:44:18,936 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-12 15:44:18,936 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDIzMDU4fQ.Y7-c5LSu6vFIvIbrGlhWJlXOjft4JrQDEtkVkQCFI74"}}
+2026-04-12 15:44:18,939 INFO [common.logger] [test_tobacco_homepage_data_002.py (test_tobacco_homepage_data_001:25)] - 用例名称：获取2025年首页数据
+2026-04-12 15:44:18,939 INFO [common.logger] [test_tobacco_homepage_data_002.py (test_tobacco_homepage_data_001:25)] - 用例名称：获取2025年首页数据
+2026-04-12 15:44:18,939 INFO [common.logger] [http_request.py (get:30)] - 准备发起get请求,url:http://localhost:5174/api/homePage/data
+2026-04-12 15:44:18,939 INFO [common.logger] [http_request.py (get:30)] - 准备发起get请求,url:http://localhost:5174/api/homePage/data
+2026-04-12 15:44:18,939 INFO [common.logger] [http_request.py (get:31)] - 接口信息：{'params': 2025, 'headers': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDIzMDU4fQ.Y7-c5LSu6vFIvIbrGlhWJlXOjft4JrQDEtkVkQCFI74'}
+2026-04-12 15:44:18,939 INFO [common.logger] [http_request.py (get:31)] - 接口信息：{'params': 2025, 'headers': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDIzMDU4fQ.Y7-c5LSu6vFIvIbrGlhWJlXOjft4JrQDEtkVkQCFI74'}
+2026-04-12 15:49:23,255 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-12 15:49:23,255 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-12 15:49:23,463 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-12 15:49:23,463 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDIzMzYzfQ.Hfn3xLC1L16Y0L0r4quGFfhbwXpQx5-vsEPUa1HSuCw"}}
+2026-04-12 15:49:23,464 INFO [common.logger] [test_tobacco_homepage_data_002.py (test_tobacco_homepage_data_001:25)] - 用例名称：获取2025年首页数据
+2026-04-12 15:49:23,464 INFO [common.logger] [test_tobacco_homepage_data_002.py (test_tobacco_homepage_data_001:25)] - 用例名称：获取2025年首页数据
+2026-04-12 15:49:23,464 INFO [common.logger] [test_tobacco_homepage_data_002.py (test_tobacco_homepage_data_001:28)] - 请求地址：http://localhost:5174/api/homePage/data
+2026-04-12 15:49:23,464 INFO [common.logger] [test_tobacco_homepage_data_002.py (test_tobacco_homepage_data_001:28)] - 请求地址：http://localhost:5174/api/homePage/data
+2026-04-12 15:49:23,464 INFO [common.logger] [http_request.py (get:30)] - 准备发起get请求,url:http://localhost:5174/api/homePage/data
+2026-04-12 15:49:23,464 INFO [common.logger] [http_request.py (get:30)] - 准备发起get请求,url:http://localhost:5174/api/homePage/data
+2026-04-12 15:49:23,464 INFO [common.logger] [http_request.py (get:31)] - 接口信息：{'params': {'year': 2025}, 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDIzMzYzfQ.Hfn3xLC1L16Y0L0r4quGFfhbwXpQx5-vsEPUa1HSuCw'}}
+2026-04-12 15:49:23,464 INFO [common.logger] [http_request.py (get:31)] - 接口信息：{'params': {'year': 2025}, 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDIzMzYzfQ.Hfn3xLC1L16Y0L0r4quGFfhbwXpQx5-vsEPUa1HSuCw'}}
+2026-04-12 15:49:23,538 INFO [common.logger] [http_request.py (get:35)] - 接口响应状态码：200
+2026-04-12 15:49:23,538 INFO [common.logger] [http_request.py (get:35)] - 接口响应状态码：200
+2026-04-12 15:49:23,538 INFO [common.logger] [http_request.py (get:36)] - 接口响应内容：{"code":1,"msg":"success","data":{"firstTierForecast":11853797,"yearForecast":33208557,"supplementForecast":25639797,"brandCore":0.9503700964616009}}
+2026-04-12 15:49:23,538 INFO [common.logger] [http_request.py (get:36)] - 接口响应内容：{"code":1,"msg":"success","data":{"firstTierForecast":11853797,"yearForecast":33208557,"supplementForecast":25639797,"brandCore":0.9503700964616009}}

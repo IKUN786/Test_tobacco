@@ -1,0 +1,10 @@
+#数据文件
+test_login:
+  - case_name: "登录成功-正确的用户名密码"
+    login_api: /api/user/login
+    body:
+      userEmpId: "admin"
+      userPassword: "123456"
+    expected:
+      status_code: 200
+      code: 1

@@ -1,0 +1,6 @@
+pip install pytest requests jsonpath xToolkit allure-pytest -i https://pypi.tuna.tsinghua.edu.cn/simple
+pytest测试框架 → 写测试用例、运行用例、管理 fixture（你写的 login 登录夹具全靠它）
+requests发接口请求 → 调用登录接口、购物车接口，和服务器交互
+jsonpath解析接口数据 → 从接口返回的 JSON 里提取 token、商品 ID
+allure-pytest生成测试报告 → 跑活用例后，生成好看的 HTML 可视化报告（你之前一直配置的）
+xToolkit测试工具包 → 提供加密、随机数据、日志等辅助功能

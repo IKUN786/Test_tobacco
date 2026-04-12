@@ -1,0 +1,8 @@
+#环境配置
+env:
+  host: "http://localhost:5174"
+  db_host: "203.25.211.200"
+  db_port: 3306
+  db_user: "root"
+  db_pwd: "mysql@C506"
+  db_name: "tobacco_prediction"

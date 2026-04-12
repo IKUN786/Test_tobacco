@@ -1,0 +1,10 @@
+[32mINFO    [0m common.logger:http_request.py:41 准备发起post请求,url:http://localhost:5174/api/user/login
+[32mINFO    [0m common.logger:http_request.py:42 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+[32mINFO    [0m common.logger:http_request.py:46 接口响应状态码：200
+[32mINFO    [0m common.logger:http_request.py:47 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDI0OTc2fQ.BF898RL_3z6G5JXbNeYqt_9beh77rGm99XrR5s6OBt0"}}
+[32mINFO    [0m common.logger:test_tobacco_homepage_data_002.py:25 用例名称：获取2025年首页数据
+[32mINFO    [0m common.logger:test_tobacco_homepage_data_002.py:28 请求地址：http://localhost:5174/api/homePage/data
+[32mINFO    [0m common.logger:http_request.py:30 准备发起get请求,url:http://localhost:5174/api/homePage/data
+[32mINFO    [0m common.logger:http_request.py:31 接口信息：{'params': {'year': 2025}, 'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc2MDI0OTc2fQ.BF898RL_3z6G5JXbNeYqt_9beh77rGm99XrR5s6OBt0'}}
+[32mINFO    [0m common.logger:http_request.py:35 接口响应状态码：200
+[32mINFO    [0m common.logger:http_request.py:36 接口响应内容：{"code":1,"msg":"success","data":{"firstTierForecast":11853797,"yearForecast":33208557,"supplementForecast":25639797,"brandCore":0.9503700964616009}}

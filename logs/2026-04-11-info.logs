@@ -1,0 +1,104 @@
+2026-04-11 17:59:42,587 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 17:59:42,587 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:04:23,853 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:04:23,853 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:04:23,854 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:04:23,854 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:04:23,857 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:04:23,857 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:04:24,035 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：401
+2026-04-11 18:04:24,035 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：401
+2026-04-11 18:04:24,036 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":0,"msg":"账号不存在","data":null}
+2026-04-11 18:04:24,036 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":0,"msg":"账号不存在","data":null}
+2026-04-11 18:05:43,302 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:05:43,302 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:05:43,303 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:05:43,303 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:05:43,303 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:05:43,303 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:05:43,342 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：401
+2026-04-11 18:05:43,342 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：401
+2026-04-11 18:05:43,342 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":0,"msg":"账号不存在","data":null}
+2026-04-11 18:05:43,342 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":0,"msg":"账号不存在","data":null}
+2026-04-11 18:14:28,484 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:14:28,484 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:14:28,485 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:14:28,485 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:14:28,485 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:14:28,485 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:14:28,507 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：401
+2026-04-11 18:14:28,507 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：401
+2026-04-11 18:14:28,507 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":0,"msg":"账号不存在","data":null}
+2026-04-11 18:14:28,507 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":0,"msg":"账号不存在","data":null}
+2026-04-11 18:18:06,480 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:18:06,480 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:18:06,480 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/tobacco/user/login
+2026-04-11 18:18:06,480 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/tobacco/user/login
+2026-04-11 18:18:06,480 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:18:06,480 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'username': 'admin', 'password': '123456'}}
+2026-04-11 18:18:06,495 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：404
+2026-04-11 18:18:06,495 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：404
+2026-04-11 18:18:06,495 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：
+2026-04-11 18:18:06,495 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：
+2026-04-11 18:21:26,028 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:21:26,028 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 18:21:26,028 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:21:26,028 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 18:21:26,028 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 18:21:26,028 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 18:21:26,333 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 18:21:26,333 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 18:21:26,333 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ2MDg2fQ.447Ht0q6r0ZczlT28h5ztFk8wflfg53OGTNKISPPuYE"}}
+2026-04-11 18:21:26,333 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ2MDg2fQ.447Ht0q6r0ZczlT28h5ztFk8wflfg53OGTNKISPPuYE"}}
+2026-04-11 19:03:27,815 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:03:27,815 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:03:27,815 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:03:27,815 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:03:27,815 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:03:27,815 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:03:54,593 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:03:54,593 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:03:54,593 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:03:54,593 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:03:54,594 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:03:54,594 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:04:12,259 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:04:12,259 INFO [common.logger] [test_login.py (test_login:26)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:04:12,259 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:04:12,259 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:04:12,259 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:04:12,259 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:04:12,426 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:04:12,426 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:04:12,427 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4NjUyfQ.BMCmms_rmycJTFLmx1A5dY91FBwYEiJrv38k1yUAgTg"}}
+2026-04-11 19:04:12,427 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4NjUyfQ.BMCmms_rmycJTFLmx1A5dY91FBwYEiJrv38k1yUAgTg"}}
+2026-04-11 19:05:48,041 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:05:48,041 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:05:48,042 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:05:48,042 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:05:48,042 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:05:48,042 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:05:48,325 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:05:48,325 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:05:48,325 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4NzQ4fQ.8_UjKInde8dqrD4nKI5KXNYCnuH8g1zttM4TZMetddg"}}
+2026-04-11 19:05:48,325 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4NzQ4fQ.8_UjKInde8dqrD4nKI5KXNYCnuH8g1zttM4TZMetddg"}}
+2026-04-11 19:08:16,275 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:08:16,275 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:08:16,275 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:08:16,275 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:08:16,275 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:08:16,275 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:08:16,490 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:08:16,490 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:08:16,490 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4ODk2fQ.lCNnwyaGmk6IHRaqR36ij17HasH6KtsdtMYDjlmrN2w"}}
+2026-04-11 19:08:16,490 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4ODk2fQ.lCNnwyaGmk6IHRaqR36ij17HasH6KtsdtMYDjlmrN2w"}}
+2026-04-11 19:08:22,375 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:08:22,375 INFO [common.logger] [test_login.py (test_login:25)] - 用例名称：登录成功-正确的用户名密码
+2026-04-11 19:08:22,375 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:08:22,375 INFO [common.logger] [http_request.py (post:41)] - 准备发起post请求,url:http://localhost:5174/api/user/login
+2026-04-11 19:08:22,375 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:08:22,375 INFO [common.logger] [http_request.py (post:42)] - 接口信息：{'json': {'userEmpId': 'admin', 'userPassword': '123456'}}
+2026-04-11 19:08:22,545 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:08:22,545 INFO [common.logger] [http_request.py (post:46)] - 接口响应状态码：200
+2026-04-11 19:08:22,546 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4OTAyfQ.y9vd6YIj_XIOaebdWQrvCsphW7CtELxrF44jU9_BojU"}}
+2026-04-11 19:08:22,546 INFO [common.logger] [http_request.py (post:47)] - 接口响应内容：{"code":1,"msg":null,"data":{"id":2,"userEmpId":"admin","userName":"测试员工","userStatus":1,"roleName":"operator","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGFpbXMiOnsidXNlckVtcElkIjoiYWRtaW4ifSwiZXhwIjoxNzc1OTQ4OTAyfQ.y9vd6YIj_XIOaebdWQrvCsphW7CtELxrF44jU9_BojU"}}

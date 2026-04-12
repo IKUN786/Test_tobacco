@@ -1,0 +1,7 @@
+pytest>=2.20.0
+allure-pytest>=2.13.0
+requests>=2.20.0
+PyYAML>=6.0
+PyMySQL>=1.1.2
+loguru>=0.6.0
+python-dotenv>=0.20.0
