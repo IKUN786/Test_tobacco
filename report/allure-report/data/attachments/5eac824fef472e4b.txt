@@ -1,5 +1,0 @@
-[32mINFO    [0m common.logger:test_tobacco_login_001.py:25 用例名称：登录失败-用户名和密码为空
-[32mINFO    [0m common.logger:http_request.py:41 准备发起post请求,url:http://localhost:5174/api/user/login
-[32mINFO    [0m common.logger:http_request.py:42 接口信息：{'json': {'userEmpId': '', 'userPassword': ''}}
-[32mINFO    [0m common.logger:http_request.py:46 接口响应状态码：401
-[32mINFO    [0m common.logger:http_request.py:47 接口响应内容：{"code":0,"msg":"账号不存在","data":null}

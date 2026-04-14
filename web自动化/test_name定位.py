@@ -1,3 +1,5 @@
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 # 直接启动Edge（自动识别你项目里的 MicrosoftWebDriver.exe）
@@ -6,5 +8,6 @@ driver = webdriver.Edge()
 driver.get("http://localhost:5174/smoke2/login")
 # 打印页面标题，验证成功
 print("启动成功！页面标题：", driver.title)
-# 定位用户名输入框，并输入用户名
+time.sleep(2)
 element = driver.find_element(By.NAME, "username")
+element.send_keys("admin")

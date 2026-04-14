@@ -1,3 +1,5 @@
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -7,6 +9,7 @@ driver = webdriver.Edge()
 driver.get("http://localhost:5174/smoke2/login")
 # 打印页面标题，验证成功
 print("启动成功！页面标题：", driver.title)
+time.sleep(2)
 # 定位id为username的元素，并输入用户名
 element = driver.find_element(By.ID,"username")
 element.send_keys("admin")

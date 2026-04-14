@@ -1,11 +1,13 @@
 # test_edge.py
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import time
 # 直接启动Edge（自动识别你项目里的 MicrosoftWebDriver.exe）
 driver = webdriver.Edge()
 # 测试：打开网页（换成你的前端/后端地址都可以）
 driver.get("http://localhost:5174/smoke2/login")
 # 打印页面标题，验证成功
 print("启动成功！页面标题：", driver.title)
-
-element = driver.find_element(By.CLASS_NAME, "submit-btn")
+time.sleep(3)
+element = driver.find_element(By.CLASS_NAME, "login-button")
+element.click()
